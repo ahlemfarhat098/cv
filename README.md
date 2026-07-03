@@ -14,7 +14,7 @@ This repository contains my CV and is used to apply for internships and showcase
 - HTML, CSS, JavaScript (basic web development)
 - Networking fundamentals
 - Linux basics
-- Data Analysis (Google Data Analytics)
+- Data Analysis 
 
 ## 📫 Contact
 - GitHub: ahlemfarhat098
